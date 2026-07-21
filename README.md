@@ -39,7 +39,7 @@ This project analyzes Superstore sales data using Power BI to identify business 
 
 ## Dashboard Preview
 
-(Add dashboard screenshot here)
+check in images
 
 ## Dataset
 
