@@ -3,7 +3,6 @@ Sales performance analysis and interactive Power BI dashboard using the Supersto
 # Business Sales Performance Dashboard
 
 ## Overview
-
 This project analyzes Superstore sales data using Power BI to identify business trends, product performance, regional sales, and profitability.
 
 ## Objectives
