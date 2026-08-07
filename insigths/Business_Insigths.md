@@ -10,3 +10,6 @@
 
 - Increase investment in the Technology category.
 - Promote high-margin products such as Phones and Chairs.
+- Improve marketing strategies in lower-performing regions.
+- Optimize inventory for top-selling products.
+- Monitor discount strategies to protect profit margins.
