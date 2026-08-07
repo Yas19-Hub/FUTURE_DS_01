@@ -6,7 +6,6 @@
 4. The West region contributes the highest share of sales, while the South region contributes the least.
 5. A small number of products generate a large portion of total revenue, highlighting key best-selling products.
 6. Sales show an increasing trend over the years, indicating consistent business growth.
-
 ## Recommendations
 
 - Increase investment in the Technology category.
