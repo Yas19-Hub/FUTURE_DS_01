@@ -1,5 +1,5 @@
 # Business Insights
-## Key Findings
+
 1. The business generated **$2.30M** in total sales with **$286.4K** in total profit.
 2. Technology is the highest revenue-generating product category.
 3. Phones and Chairs contribute significantly to overall profitability.
