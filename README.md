@@ -10,8 +10,7 @@ This project analyzes Superstore sales data using Power BI to identify business 
 - Track profit and revenue
 - Identify top-performing products
 - Compare regional performance
-- Generate actionable business insights
-
+- Generate actionable business insights yes 
 ## Tools Used
 
 - Power BI
