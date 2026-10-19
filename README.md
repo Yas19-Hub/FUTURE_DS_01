@@ -1,7 +1,6 @@
 # FUTURE_DS_01
 Sales performance analysis and interactive Power BI dashboard using the Superstore dataset.
 # Business Sales Performance Dashboard
-
 ## Overview
 This project analyzes Superstore sales data using Power BI to identify business trends, product performance, regional sales, and profitability.
 
